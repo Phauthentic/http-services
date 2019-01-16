@@ -1,5 +1,5 @@
 {
-    "name": "phauthentic/http-serices",
+    "name": "phauthentic/http-services",
     "description": "Services around PSR7 HTTP Messages",
     "type": "library",
     "require": {
