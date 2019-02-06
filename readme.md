@@ -27,7 +27,7 @@ Your application **must** use the [PSR 7 HTTP Message interfaces](https://github
 ## Documentation
 
  * [Download Service](docs/Download-Service.md) 
- * [Redirect Service](docs/Redirect-Service.md)
+ * [Redirect Service](docs/RedirectService.md)
  * [Request Handler Service](docs/Request-Handler-Service.md)
  
 ## Copyright & License
